@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <updates>
+
   <update>
     <name>Blog Articles</name>
     <description>Article management component (a fork of com_content).</description>
@@ -84,4 +85,26 @@
     <sha384>da2c0f57d87466065e4c9040b39860f8771728fdf22c6be312b0b2ebfe8e7bcbc0641252969b5df18b7a2965a3eedd61</sha384>
     <sha512>6a6ec095089d0350e37e6ffe4599955e856010ce687fdcd2ef76d3e11f8886cf7fa56bf2d171e007f5e2de6c1f0e59867ee178c1ec88aa0235bc26d87471532f</sha512>
   </update>
+
+  <update>
+    <name>Blog Articles</name>
+    <description>Article management component (a fork of com_content).</description>
+    <element>com_blog</element>
+    <type>component</type>
+    <version>3.0.19</version>
+    <!-- <infourl></infourl> -->
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.19/com_blog_3019.zip</downloadurl>
+    </downloads>
+    <maintainer>Otterly Useless</maintainer>
+    <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
+    <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
+    <php_minimum>7.1</php_minimum>
+    <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
+    <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
+    <sha256>db9dfd188ac63023e0c4249b1dbd0b5fb553c65b7cef66da6af5ac44a5c4feea</sha256>
+    <sha384>c3535321d09b1a47e0b8d4caf541064bf5b188c3222efa574a57bf59576197b8e456fecfbb4f21aeac0b32f82fef7606</sha384>
+    <sha512>6bb265e4174ace2731dcb91f90096a00960655ff4440c5cf6ef7615d4baccd1ae66fd3c6edc1350d6bc7d31de52b6bf981738f09d62fc79b666397e1a4ec41b5</sha512>
+  </update>
+
 </updates>
