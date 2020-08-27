@@ -147,4 +147,25 @@
     <sha384>8396246e777c8af70b84802c6aedd02a38570022e544ab00bd7108524b57d7537ad0a522aea8aac14d0e0e7fbbdcf097</sha384>
     <sha512>a7c88f0e75873995a40adbb045dbb2a9ce03c0f766625a5731635a3fb2080ba3f385b57c9040eeb5bf69fc724f483e568e81d849090769aaec624389bdbe053e</sha512>
   </update>
+
+  <update>
+    <name>Blog Articles</name>
+    <description>Article management component (a fork of com_content).</description>
+    <element>com_blog</element>
+    <type>component</type>
+    <version>3.0.22</version>
+    <!-- <infourl></infourl> -->
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.22/com_blog_3022.zip</downloadurl>
+    </downloads>
+    <maintainer>Otterly Useless</maintainer>
+    <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
+    <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
+    <php_minimum>7.1</php_minimum>
+    <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
+    <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
+    <sha256>fe97baf6b0cd283e6da4e041b0c13f2cd29b91e0c72ba6cdfcfdee471f4f2413</sha256>
+    <sha384>9cccf8d510500bc5bd19b3c204ca015ab4b1eea62182b612fc22b142956ae8296324f0a551b143b4b4b49196abc55fef</sha384>
+    <sha512>dcab74c8883fec7ddc142a8b91298a80419b08f3cc54db1e8c2af6c3eedda26fdca002d47c6d5322b7271a9fdff461ee332138335c410b1ebb8df5c228f15464</sha512>
+  </update>
 </updates>
