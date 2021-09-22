@@ -295,7 +295,7 @@
     <sha512>a8b5bf92593caa6d12b2a5ad2089f676206a01d31b33c17f0468659179d8a218f2e9cc28c9db18ed8663f2254b170b2c6f5ecdac10947faf796d01a303ef56b1</sha512>
   </update>
 
-  <update>
+  <!-- <update>
     <name>Blog Articles</name>
     <description>Article management component (a fork of com_content).</description>
     <element>com_blog</element>
@@ -311,8 +311,8 @@
     <php_minimum>7.4</php_minimum>
     <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
     <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
-    <sha256>a32d5e4c7819078c49cc02a06310d3b3c35faf31c18b6ae578033be5037601ce</sha256>
-    <sha384>9b7c3acd6d000a32588bfb33059def737b09c67b574cad4b1f59672be06a04c6cef1fd5559a641ed42131aa57dd3ad6b</sha384>
-    <sha512>d8038e5334e3654a47249d0b2ad576d462754be58f71d0116a98ebffc4dc3eb7d03ec7a54390fb73d8ef5637556f1c0329969dcf1707cae33142405b6a2cc6e7</sha512>
-  </update>
+    <sha256></sha256>
+    <sha384></sha384>
+    <sha512></sha512>
+  </update> -->
 </updates>
