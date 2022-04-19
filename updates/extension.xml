@@ -11,7 +11,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.16/com_blog_3016.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -32,7 +32,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.16.1/com_blog_30161.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -53,7 +53,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.17/com_blog_3017.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -74,7 +74,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.18/com_blog_3018.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -95,7 +95,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.19/com_blog_3019.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -116,7 +116,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.20/com_blog_3020.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -137,7 +137,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.21/com_blog_3021.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -158,7 +158,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.22/com_blog_3022.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -179,7 +179,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.23/com_blog_3023.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -200,7 +200,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.24/com_blog_3024.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -221,7 +221,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.25/com_blog_3025.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -242,7 +242,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.26/com_blog_3026.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -263,7 +263,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.26.3/com_blog_30263.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.1</php_minimum>
@@ -284,7 +284,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.26.4/com_blog_30264.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.4</php_minimum>
@@ -305,7 +305,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.26.6/com_blog_30266.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.4</php_minimum>
@@ -326,7 +326,7 @@
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.27/com_blog_3027.zip</downloadurl>
     </downloads>
-    <maintainer>Otterly Useless</maintainer>
+    <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
     <php_minimum>7.4</php_minimum>
@@ -335,5 +335,26 @@
     <sha256>2ce8bda7aac4891846eba0d7a1ec0c9c03083dac286d3063809733703a3eefbe</sha256>
     <sha384>ea797e69f3d0f91100d42fca3dcdd6b067d25ef47ef44621a63a6d5534c163cf2580eff628724de9c3547258dfa7b3e3</sha384>
     <sha512>7020094d2c53772010dc606ebf6f785fdba7676f02d55ab97141988fa76fe8935ddcc80c5022d12cec703d7ec498c1dce7939d3f26c8ec376aca5bb8c1ee61db</sha512>
+  </update>
+
+  <update>
+    <name>Blog Articles</name>
+    <description>Article management component (a fork of com_content).</description>
+    <element>com_blog</element>
+    <type>component</type>
+    <version>3.0.28</version>
+    <!-- <infourl></infourl> -->
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.28/com_blog_3028.zip</downloadurl>
+    </downloads>
+    <maintainer>flutterderp</maintainer>
+    <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
+    <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
+    <php_minimum>7.4</php_minimum>
+    <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
+    <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
+    <sha256>60e200da86c0a64084a26e08e37bbef1b338e2b61fe0d1ed5d65543ec5d6f652</sha256>
+    <sha384>31f91858514beeb5579bebf3d97ab2dc2bd6dace2c899aa86f391fcc83955465700d3870fbd00a99e87bfd2091fde755</sha384>
+    <sha512>53ee702f3dd68fd998c5ec315d040f956729fb32e929b0d45b4820d99faabac265c67e8909ab6d955decbaef422af8f02acb080ad4d6004076c89b2730fe0c78</sha512>
   </update>
 </updates>
