@@ -392,7 +392,7 @@
     <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="4.[01]" />
-    <php_minimum>8.0</php_minimum>
+    <php_minimum>7.4</php_minimum>
     <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
     <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
     <sha256>ef1571dc71c397025df74fa914b9892ccdeabcfeee0aed57d8ee1f0e9fcbc9c8</sha256>
@@ -434,7 +434,7 @@
     <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="4.[01]" />
-    <php_minimum>8.0</php_minimum>
+    <php_minimum>7.4</php_minimum>
     <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
     <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
     <sha256>d5a38456160f8f8ec557326818b9c321fcdd882bc46e885f295e2c9215c9a6ac</sha256>
@@ -476,7 +476,7 @@
     <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="4.[01]" />
-    <php_minimum>8.0</php_minimum>
+    <php_minimum>7.4</php_minimum>
     <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
     <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
     <sha256>8510ad5356577c4dcad867a997aecd40449128f847b5ebbcb5064e3e7d8de02b</sha256>
@@ -518,7 +518,7 @@
     <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="4.[01]" />
-    <php_minimum>8.0</php_minimum>
+    <php_minimum>7.4</php_minimum>
     <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
     <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
     <sha256>acbe3efad00e05a32e6aaf31af086d31802db71eae7e5b95b210f23dd14bc35f</sha256>
@@ -560,7 +560,7 @@
     <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="4.[01]" />
-    <php_minimum>8.0</php_minimum>
+    <php_minimum>7.4</php_minimum>
     <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
     <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
     <sha256>16dd2e51e5e56ca5f6259bf35005571c6a69dcc0c0b481c5a4db24bdc4d85273</sha256>
@@ -602,7 +602,7 @@
     <maintainer>flutterderp</maintainer>
     <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
     <targetplatform name="joomla" version="4.[01]" />
-    <php_minimum>8.0</php_minimum>
+    <php_minimum>7.4</php_minimum>
     <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
     <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
     <sha256>86fac79eb90f95d3e064250739d349c812bed71b60017967b918b10c7ced3c4f</sha256>
