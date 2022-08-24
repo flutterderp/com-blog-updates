@@ -609,4 +609,46 @@
     <sha384>35d0d015417c6b2df7abacae41ad585fc9199ee5472f7d7c6039ce788b169d5b88e1fe1c6679178fe25e1bbba0fb685a</sha384>
     <sha512>06cff5b575020c59f1f93490fb732b987ee567360e87f9700d159b303c256faf9a2611c142467e33e43c9046d28e0a197c493c8a9073b92b02442b37b0cf4e8f</sha512>
   </update>
+
+  <update>
+    <name>Blog Articles</name>
+    <description>Article management component (a fork of com_content).</description>
+    <element>com_blog</element>
+    <type>component</type>
+    <version>3.0.29.6</version>
+    <!-- <infourl></infourl> -->
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/3.0.29.6/com_blog_30296.zip</downloadurl>
+    </downloads>
+    <maintainer>flutterderp</maintainer>
+    <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
+    <targetplatform name="joomla" version="3.[6789]|(10|11|12)" />
+    <php_minimum>7.4</php_minimum>
+    <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
+    <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
+    <sha256>de04b43534f5e43ad17d2bc427e4d4eaa03f445e5920d81aaa81d127430e3cf0</sha256>
+    <sha384>ecb7e7828331f6f1ade7c39bd083ea6075820375e1f2b3281d6f68e6e45929b9a7d576fad56b01119062df7c409dc383</sha384>
+    <sha512>5b931e5addda40466f047cd66bdea018d3a5b469164369ec7e7f2810f3cebc5f50f941e3364a871b5a1f60a0c364680d8b9f74c71185fbc6123f49531a4164b7</sha512>
+  </update>
+
+  <update>
+    <name>Blog Articles</name>
+    <description>Article management component (a fork of com_content).</description>
+    <element>com_blog</element>
+    <type>component</type>
+    <version>4.0.0</version>
+    <!-- <infourl></infourl> -->
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/flutterderp/com_blog/releases/download/4.0.0/com_blog_400.zip</downloadurl>
+    </downloads>
+    <maintainer>flutterderp</maintainer>
+    <maintainerurl>https://github.com/flutterderp/com_blog</maintainerurl>
+    <targetplatform name="joomla" version="4.[01]" />
+    <php_minimum>7.4</php_minimum>
+    <!-- supported_databases prevents update/install on my personal website which runs MariaDB 10.2.27 (???) -->
+    <!-- <supported_databases mysql="5.6.45" mariadb="10.2.27" /> -->
+    <sha256>52393ff9ef1626fc31f0652e42911811b07d7e8604b7ddf7e458a68d8cf5d6f4</sha256>
+    <sha384>544257daf590fc8ec3a11c075ee98f70e76700921c81f2bc8eb1a01e69cd98753264d83be4e8f243e632df493c126112</sha384>
+    <sha512>7ab632bf5cebd2c5190572c33f7bc9e0c207ec6f532c7cdfecb5bab05b549096285cb01e0b990f6af8b7e10f34da13f2194581825e944211da5e62b409261796</sha512>
+  </update>
 </updates>
